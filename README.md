@@ -5,7 +5,7 @@ Une application mobile pour la gestion des demandes de stage
 2. [Problématique](#2-pourquoi-cette-application-)
 3. [Fonctionnalités](#3-fonctionnalités)
 4. [Technologies Utilisées](#4-technologies-utilisées)
-5. [Captures d'écran](#6-captures-d'ecran)
+5. [Captures d'écran](#6-captures-decran)
 ---
 ## 1. Présentation de l'équipe 
 ```
