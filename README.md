@@ -36,20 +36,14 @@ on lui affiche la liste des demandes triées par ordre d’envoi. Il va manipule
   
 ## 5. Captures d'ecran
    
-![connexion](captures/connexion.png) 
-![inscription](captures/inscription.png)
-![renitialisationMDP](captures/renitialisationMDP.png)
-![renitialisationMDP](captures/renitialisationMDP.png)
-![renitialisationMDP](captures/renitialisationMDP.png)
-
-espace etudiant :
-![homeStudent](captures/homeStudent.png)
-![homeStudent2](captures/homeStudent2.png)
-![homeStudent3](captures/homeStudent3.png)
-![homeStudent4](captures/homeStudent4.png)
-![homeStudent5](captures/homeStudent5.png)
-
-espace admin : 
-
-![homeAdmin](captures/homeAdmin.png)
-![profile](captures/profile.png)
+![image1](captures/image1.png) 
+![image2](captures/image2.png)
+![image3](captures/image3.png)
+![image4](captures/image4.png)
+![image5](captures/image5.png)
+![image6](captures/image6.png)
+![image7](captures/image7.png)
+![image8](captures/image8.png)
+![image9](captures/image9.png)
+![image10](captures/image10.png)
+![image11](captures/image11.png)
