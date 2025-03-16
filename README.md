@@ -28,7 +28,11 @@ Pour un responsable :
 
 on lui affiche la liste des demandes triées par ordre d’envoi. Il va manipuler les demandes en cliquant sur l’un des deux boutons : accepter/ refuser. Une interface « menu compte » qui va permettre aux utilisateurs l’accès aux différentes pages (déconnexion, notifications…)
 ## 4. Technologies utilisées
-  android studio, firebase, Visual Studio Code, PowerAMC
+   Dart(Flutter)
+   Firebase
+   Android studio
+   Visual Studio Code
+   PowerAMC
   
 ## 5. Captures d'ecran
    
